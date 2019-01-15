@@ -1,4 +1,4 @@
-# REACT + CHART.JS DATA VISUALIZATION #
+# CHART.JS DATA VISUALIZATION #
 
 The 10 most populated municipalities in Finland visualized with Chart.js and by using React framework. [App is hosted with Heroku.](https://municipalities-of-finland.herokuapp.com/)
 
