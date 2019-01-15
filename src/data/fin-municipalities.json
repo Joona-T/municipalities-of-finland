@@ -1,0 +1,14 @@
+{
+    "municipalities": [
+        {"name": "Helsinki", "population": "645482"},
+        {"name": "Espoo", "population": "280247"},
+        {"name": "Tampere", "population": "232407"},
+        {"name": "Vantaa", "population": "224397"},
+        {"name": "Oulu", "population": "202058"},
+        {"name": "Turku", "population": "189930"},
+        {"name": "Jyväskylä", "population": "140240"},
+        {"name": "Lahti", "population": "119730"},
+        {"name": "Kuopio", "population": "118100"},
+        {"name": "Pori", "population": "84585"}
+    ]
+}
